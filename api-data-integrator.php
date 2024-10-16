@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: API Data Integrator
- * Plugin URI: https://strategy11.com/
+ * Plugin URI: https://github.com/talhaQ96/API-Data-Integrator/
  * Description: Integrates external data into your site via a custom REST API endpoint, with caching and dynamic data display.
  * Version: 1.0.0
  * Author: Talha Qureshi
